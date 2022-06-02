@@ -1,0 +1,22 @@
+{
+  "name": "@deniszola/package",
+  "version": "1.0.0",
+  "description": "A simple npm package to demonstrate GitHub Package Registry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniszola/package.git"
+  },
+  "keywords": [
+    "github-packages"
+  ],
+  "author": "deniszola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deniszola/package/issues"
+  },
+  "homepage": "https://github.com/deniszola/package#readme"
+}
