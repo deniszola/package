@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/deniszola/package/issues"
   },
-  "homepage": "https://github.com/deniszola/package#readme"
+  "homepage": "https://github.com/deniszola/package#readme",
+  "publishConfig": {
+    "@deniszola:registry": "https://npm.pkg.github.com"
+  }
 }
